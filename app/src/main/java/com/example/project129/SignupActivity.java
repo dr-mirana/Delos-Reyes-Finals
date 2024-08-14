@@ -39,7 +39,5 @@ public class SignupActivity extends AppCompatActivity {
         signupBtn = findViewById(R.id.button);
         nameEdt = findViewById(R.id.editTextTextPersonName);
         emailEdt = findViewById(R.id.editTextTextEmail);
-        passEdt = findViewById(R.id.editTextPassword);
-        repassEdt = findViewById(R.id.editTextRepassword);
     }
 }
